@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter Notes App
 
 A simple and elegant notes application built with Flutter and Firebase, featuring authentication and full CRUD operations.
@@ -211,3 +212,6 @@ This project is created for a technical assignment.
 ## Contact
 
 For questions or issues, please contact the developer.
+=======
+# Notes
+>>>>>>> 2fd1d47a88052303d9e288694eabbbe80122eb94
