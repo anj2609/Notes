@@ -9,9 +9,14 @@
 
 ## 📱 Download APK
 
-**[Download app-release.apk (46.6 MB)](https://github.com/anj2609/Notes/releases/download/v1.0.0/app-release.apk)**
+**APK File Location**: `build/app/outputs/flutter-apk/app-release.apk`
 
-Or find it in the repository: `build/app/outputs/flutter-apk/app-release.apk`
+**Size**: 46.6 MB
+
+To download:
+1. Navigate to `build/app/outputs/flutter-apk/` in this repository
+2. Download `app-release.apk`
+3. Or clone the repository and find it at the path above
 
 ---
 
